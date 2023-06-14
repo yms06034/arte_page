@@ -3,10 +3,11 @@
   <header>
     <div class="header_area">
       <div class="pad-15">
-        <a @click="scroll_1()">사업안내</a>
-        <a @click="scroll_2()">단지안내</a>
-        <a @click="scroll_3()">상품안내</a>
-        <a @click="scroll_4()">프리미엄</a>
+        <a @click="scroll_1()">분양개요</a>
+        <a @click="scroll_2()">입지안내</a>
+        <a @click="scroll_3()">단지안내</a>
+        <a @click="scroll_4()">평명안내</a>
+        <a @click="scroll_5()">프리미엄</a>
       </div>
     </div>
   </header>
@@ -18,14 +19,8 @@
     ref="scroll1">
     <img style="width: 100%;" src="../assets/main.png" alt="main" />
     <div class="body_content">
-      <img src="../assets/1/사업안내1.png" alt="천안 더샵 신부센트라" />
-      <img src="../assets/1/사업안내2.jpg" alt="천안 더샵 신부센트라" />
-      <img src="../assets/1/사업안내3.jpg" alt="천안 더샵 신부센트라" />
-      <img src="../assets/1/사업안내4.jpg" alt="천안 더샵 신부센트라" />
-      <img src="../assets/1/사업안내5.jpg" alt="천안 더샵 신부센트라" />
-      <img src="../assets/1/사업안내6.jpg" alt="천안 더샵 신부센트라" />
-      <img src="../assets/1/사업안내7.jpg" alt="천안 더샵 신부센트라" />
-      <img src="../assets/1/사업안내8.jpg" alt="천안 더샵 신부센트라" />
+      <img src="../assets/1/슬라이드2.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/슬라이드3.jpg" alt="인천 더샵 아르테" />
     </div>
   </section>
 
@@ -33,17 +28,9 @@
   <section
     ref="scroll2">
     <div class="body_content">
-      <img src="../assets/1/사업안내9.jpg" alt="천안 더샵 신부센트라" />
-      <img src="../assets/1/사업안내10.jpg" alt="천안 더샵 신부센트라" />
-      <img src="../assets/1/사업안내11.jpg" alt="천안 더샵 신부센트라" />
-      <img src="../assets/1/사업안내12.jpg" alt="천안 더샵 신부센트라" />
-      <img src="../assets/1/사업안내13.jpg" alt="천안 더샵 신부센트라" />
-      <img src="../assets/1/사업안내14.jpg" alt="천안 더샵 신부센트라" />
-      <img src="../assets/1/사업안내15.jpg" alt="천안 더샵 신부센트라" />
-      <img src="../assets/1/사업안내16.jpg" alt="천안 더샵 신부센트라" />
-      <img src="../assets/1/사업안내17.jpg" alt="천안 더샵 신부센트라" />
-      <img src="../assets/1/사업안내18.jpg" alt="천안 더샵 신부센트라" />
-      <img src="../assets/1/사업안내19.jpg" alt="천안 더샵 신부센트라" />
+      <img src="../assets/1/슬라이드4.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/슬라이드5.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/슬라이드6.jpg" alt="인천 더샵 아르테" />
     </div>
   </section>
 
@@ -51,20 +38,15 @@
   <section
     ref="scroll3">
     <div class="body_content">
-      <img src="../assets/1/사업안내20.jpg" alt="천안 더샵 신부센트라" />
-      <img src="../assets/1/사업안내21.jpg" alt="천안 더샵 신부센트라" />
-      <img src="../assets/1/사업안내22.jpg" alt="천안 더샵 신부센트라" />
-      <img src="../assets/1/사업안내23.jpg" alt="천안 더샵 신부센트라" />
-      <img src="../assets/1/사업안내24.jpg" alt="천안 더샵 신부센트라" />
-      <img src="../assets/1/사업안내25.jpg" alt="천안 더샵 신부센트라" />
-      <img src="../assets/1/사업안내26.jpg" alt="천안 더샵 신부센트라" />
-      <img src="../assets/1/사업안내27.jpg" alt="천안 더샵 신부센트라" />
-      <img src="../assets/1/사업안내28.jpg" alt="천안 더샵 신부센트라" />
-      <img src="../assets/1/사업안내29.jpg" alt="천안 더샵 신부센트라" />
-      <img src="../assets/1/사업안내30.jpg" alt="천안 더샵 신부센트라" />
-      <img src="../assets/1/사업안내31.jpg" alt="천안 더샵 신부센트라" />
-      <img src="../assets/1/사업안내32.jpg" alt="천안 더샵 신부센트라" />
-      <img src="../assets/1/사업안내33.jpg" alt="천안 더샵 신부센트라" />
+      <img src="../assets/1/슬라이드7.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/슬라이드8.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/슬라이드9.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/슬라이드10.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/슬라이드11.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/슬라이드12.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/슬라이드13.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/슬라이드14.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/슬라이드15.jpg" alt="인천 더샵 아르테" />
     </div>
   </section>
 
@@ -72,18 +54,36 @@
   <section
     ref="scroll4">
     <div class="body_content">
-      <img src="../assets/1/사업안내53.jpg" alt="천안 더샵 신부센트라" />
-      <img src="../assets/1/사업안내54.jpg" alt="천안 더샵 신부센트라" />
-      <img src="../assets/1/사업안내55.jpg" alt="천안 더샵 신부센트라" />
-      <img src="../assets/1/사업안내56.jpg" alt="천안 더샵 신부센트라" />
-      <img src="../assets/1/사업안내57.jpg" alt="천안 더샵 신부센트라" />
-      <img src="../assets/1/사업안내58.jpg" alt="천안 더샵 신부센트라" />
-      <img src="../assets/1/사업안내59.jpg" alt="천안 더샵 신부센트라" />
-      <img src="../assets/1/사업안내60.jpg" alt="천안 더샵 신부센트라" />
-      <img src="../assets/1/사업안내61.jpg" alt="천안 더샵 신부센트라" />
-      <img src="../assets/1/사업안내62.jpg" alt="천안 더샵 신부센트라" />
-      <img src="../assets/1/사업안내63.jpg" alt="천안 더샵 신부센트라" />
-      <img src="../assets/1/사업안내64.jpg" alt="천안 더샵 신부센트라" />
+      <img src="../assets/1/슬라이드16.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/슬라이드17.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/슬라이드18.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/슬라이드19.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/슬라이드20.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/슬라이드21.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/슬라이드22.jpg" alt="인천 더샵 아르테" />
+    </div>
+  </section>
+
+  <!-- section 5 -->
+  <section
+    ref="scroll5">
+    <div class="body_content">
+      <img src="../assets/1/슬라이드46.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/슬라이드47.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/슬라이드48.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/슬라이드49.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/슬라이드50.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/슬라이드51.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/슬라이드52.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/슬라이드53.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/슬라이드54.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/슬라이드55.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/슬라이드56.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/슬라이드57.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/슬라이드58.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/슬라이드59.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/슬라이드60.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/슬라이드61.jpg" alt="인천 더샵 아르테" />
     </div>
   </section>
 
@@ -157,6 +157,10 @@ export default {
     scroll_4() {
       const _this = this;
       _this.$refs.scroll4.scrollIntoView({ behavior: "smooth" });
+    },
+    scroll_5() {
+      const _this = this;
+      _this.$refs.scroll5.scrollIntoView({ behavior: "smooth" });
     }
   }
 }
