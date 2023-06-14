@@ -19,8 +19,8 @@
     ref="scroll1">
     <img style="width: 100%;" src="../assets/main.png" alt="main" />
     <div class="body_content">
-      <img src="../assets/1/슬라이드2.jpg" alt="인천 더샵 아르테" />
-      <img src="../assets/1/슬라이드3.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/2.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/3.jpg" alt="인천 더샵 아르테" />
     </div>
   </section>
 
@@ -28,9 +28,9 @@
   <section
     ref="scroll2">
     <div class="body_content">
-      <img src="../assets/1/슬라이드4.jpg" alt="인천 더샵 아르테" />
-      <img src="../assets/1/슬라이드5.jpg" alt="인천 더샵 아르테" />
-      <img src="../assets/1/슬라이드6.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/4.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/5.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/6.jpg" alt="인천 더샵 아르테" />
     </div>
   </section>
 
@@ -38,15 +38,15 @@
   <section
     ref="scroll3">
     <div class="body_content">
-      <img src="../assets/1/슬라이드7.jpg" alt="인천 더샵 아르테" />
-      <img src="../assets/1/슬라이드8.jpg" alt="인천 더샵 아르테" />
-      <img src="../assets/1/슬라이드9.jpg" alt="인천 더샵 아르테" />
-      <img src="../assets/1/슬라이드10.jpg" alt="인천 더샵 아르테" />
-      <img src="../assets/1/슬라이드11.jpg" alt="인천 더샵 아르테" />
-      <img src="../assets/1/슬라이드12.jpg" alt="인천 더샵 아르테" />
-      <img src="../assets/1/슬라이드13.jpg" alt="인천 더샵 아르테" />
-      <img src="../assets/1/슬라이드14.jpg" alt="인천 더샵 아르테" />
-      <img src="../assets/1/슬라이드15.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/7.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/8.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/9.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/10.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/11.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/12.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/13.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/14.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/15.jpg" alt="인천 더샵 아르테" />
     </div>
   </section>
 
@@ -54,13 +54,13 @@
   <section
     ref="scroll4">
     <div class="body_content">
-      <img src="../assets/1/슬라이드16.jpg" alt="인천 더샵 아르테" />
-      <img src="../assets/1/슬라이드17.jpg" alt="인천 더샵 아르테" />
-      <img src="../assets/1/슬라이드18.jpg" alt="인천 더샵 아르테" />
-      <img src="../assets/1/슬라이드19.jpg" alt="인천 더샵 아르테" />
-      <img src="../assets/1/슬라이드20.jpg" alt="인천 더샵 아르테" />
-      <img src="../assets/1/슬라이드21.jpg" alt="인천 더샵 아르테" />
-      <img src="../assets/1/슬라이드22.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/16.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/17.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/18.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/19.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/20.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/21.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/22.jpg" alt="인천 더샵 아르테" />
     </div>
   </section>
 
@@ -68,22 +68,22 @@
   <section
     ref="scroll5">
     <div class="body_content">
-      <img src="../assets/1/슬라이드46.jpg" alt="인천 더샵 아르테" />
-      <img src="../assets/1/슬라이드47.jpg" alt="인천 더샵 아르테" />
-      <img src="../assets/1/슬라이드48.jpg" alt="인천 더샵 아르테" />
-      <img src="../assets/1/슬라이드49.jpg" alt="인천 더샵 아르테" />
-      <img src="../assets/1/슬라이드50.jpg" alt="인천 더샵 아르테" />
-      <img src="../assets/1/슬라이드51.jpg" alt="인천 더샵 아르테" />
-      <img src="../assets/1/슬라이드52.jpg" alt="인천 더샵 아르테" />
-      <img src="../assets/1/슬라이드53.jpg" alt="인천 더샵 아르테" />
-      <img src="../assets/1/슬라이드54.jpg" alt="인천 더샵 아르테" />
-      <img src="../assets/1/슬라이드55.jpg" alt="인천 더샵 아르테" />
-      <img src="../assets/1/슬라이드56.jpg" alt="인천 더샵 아르테" />
-      <img src="../assets/1/슬라이드57.jpg" alt="인천 더샵 아르테" />
-      <img src="../assets/1/슬라이드58.jpg" alt="인천 더샵 아르테" />
-      <img src="../assets/1/슬라이드59.jpg" alt="인천 더샵 아르테" />
-      <img src="../assets/1/슬라이드60.jpg" alt="인천 더샵 아르테" />
-      <img src="../assets/1/슬라이드61.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/46.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/47.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/48.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/49.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/50.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/51.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/52.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/53.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/54.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/55.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/56.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/57.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/58.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/59.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/60.jpg" alt="인천 더샵 아르테" />
+      <img src="../assets/1/61.jpg" alt="인천 더샵 아르테" />
     </div>
   </section>
 
